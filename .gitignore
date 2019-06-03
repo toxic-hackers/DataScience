@@ -113,13 +113,11 @@ venv.bak/
 *.feather
 .feather
 *.pkl
-<<<<<<< HEAD
 *.zip
 .DS_Store
-
-=======
 .pkl
 .DS_Store
 .zip
 *.zip
->>>>>>> c7680bf08fe198a9d4e54ab34c98b16346fa48c7
+*.tsv
+.tsv
